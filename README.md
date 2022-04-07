@@ -5,10 +5,10 @@
 ## :camera: Demonstração
 
 <div align="center" >
-  <img src="public/images/Demo1"><br/><br/>
-  <img src="public/images/Demo2"><br/><br/>
-  <img src="public/images/Demo3"><br/><br/>
-  <img src="public/images/Demo4"><br/><br/>
+  <img src="./git_img/Demo1.png"><br/><br/>
+  <img src="./git_img/Demo2.png"><br/><br/>
+  <img src="./git_img/Demo3.png"><br/><br/>
+  <img src="./git_img/Demo4.png"><br/><br/>
 </div><br/>
 
 ## :computer:	Acesse o projeto
