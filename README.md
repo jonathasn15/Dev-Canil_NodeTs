@@ -33,10 +33,10 @@
 # Rotas
 
  - 1 - router.get('/', PageController.home);
- - 1 - router.get('/dogs', PageController.dogs);
- - 1 - router.get('/cats', PageController.cats);
- - 1 - router.get('/fishes', PageController.fishes);
- - 1 - router.get('/search', SearchController.search);
+ - 2 - router.get('/dogs', PageController.dogs);
+ - 3 - router.get('/cats', PageController.cats);
+ - 4 - router.get('/fishes', PageController.fishes);
+ - 5 - router.get('/search', SearchController.search);
  
 ---
 
