@@ -5,16 +5,16 @@
 ## :camera: Demonstração
 
 <div align="center" >
-  <img src=""><br/><br/>
-  <img src=""><br/><br/>
-  <img src=""><br/><br/>
-  <img src=""><br/><br/>
+  <img src="images/Demo1"><br/><br/>
+  <img src="images/Demo2"><br/><br/>
+  <img src="images/Demo3"><br/><br/>
+  <img src="images/Demo4"><br/><br/>
 </div><br/>
 
-## :tv: Video Demonstrativo
+## :computer:	Acesse o projeto
 
-<a href="">/
-  <img src="">
+
+<a href="https://stark-earth-46765.herokuapp.com/"> Projeto DevsPet 
 </a>
 
 
@@ -58,8 +58,6 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 - ✔️ Nodemon
 
 - ✔️ JavaScript
-
-- ✔️ Heroku
 
 
 ## ⚙ Configuração via Npm
