@@ -23,6 +23,12 @@
  - 1 - Filtro por tipos
  - 2 - Mecanismo de busca
 
+# Dependências
+
+  - 1 - dotenv
+  - 2 - express
+  - 3 - mustache-express
+  - 4 - typescript
 
 # Rotas
 
