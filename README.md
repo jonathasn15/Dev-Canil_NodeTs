@@ -1,14 +1,72 @@
-# DevCanil-NodeTs
+<h1 align="center">:dog: DevsPet :cat:</h1>
 
-Projeito feito no modulo do curso node + typescript
+<p align="center">O DevsPet se trata de um site web desenvolvido em NodeJs e TypeScript para simular um site de busca de animais para adoções, o mesmo se trata de um sistema de busca desenvolvido para praticar o conhecimento adquirido em cursos de NodeJs.</p>
 
-#### pre-requisitos globais:
+## :camera: Demonstração
 
-npm i -g nodemon typescript ts-node
+<div align="center" >
+  <img src=""><br/><br/>
+  <img src=""><br/><br/>
+  <img src=""><br/><br/>
+  <img src=""><br/><br/>
+</div><br/>
 
-### instalação
-npm install
+## :tv: Video Demonstrativo
 
-### para rodar o projeto
+<a href="">/
+  <img src="">
+</a>
 
-npm run start-dev
+
+# Funcionalidades
+
+ - 1 - Filtro por tipos
+ - 2 - Mecanismo de busca
+
+
+# Rotas
+
+ - 1 - router.get('/', PageController.home);
+ - 1 - router.get('/dogs', PageController.dogs);
+ - 1 - router.get('/cats', PageController.cats);
+ - 1 - router.get('/fishes', PageController.fishes);
+ - 1 - router.get('/search', SearchController.search);
+ 
+---
+
+## 🚀 Tecnologias
+
+Este projeto foi desenvolvido com as seguintes tecnologias:
+
+
+- ✔️ NodeJs
+
+- ✔️ Express
+
+- ✔️ Routes
+
+- ✔️ TypeScript
+
+- ✔️ Mustache
+
+- ✔️ Nodemon
+
+- ✔️ JavaScript
+
+- ✔️ Heroku
+
+
+## ⚙ Configuração via Npm
+
+1- Para instalar o NodeJs:
+> npm install
+2- Para iniciar a aplicação:
+> npm run start-
+3- Para tranquições de arquivos Ts para Js :
+> npm postinstall
+4- Deploy:
+> npm start
+
+
+Feito com 💜 por Jonathas Nunes 👋 [Veja meu Linkedin](https://www.linkedin.com/in/jonathasnunes-developer/)
+<br>
