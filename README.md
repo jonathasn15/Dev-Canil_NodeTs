@@ -4,12 +4,12 @@
 
 ## :camera: Demonstração
 
-<div align="center" >
-  <img src="./git_img/Demo1.png"><br/><br/>
-  <img src="./git_img/Demo2.png"><br/><br/>
-  <img src="./git_img/Demo3.png"><br/><br/>
-  <img src="./git_img/Demo4.png"><br/><br/>
-</div><br/>
+
+![Demo1](https://user-images.githubusercontent.com/52537183/162124894-2710cb7d-4237-476c-8b24-800ac92d2920.PNG)
+![Demo2](https://user-images.githubusercontent.com/52537183/162124905-b320e892-c643-4214-9501-b73ce42c40ab.PNG)
+![Demo3](https://user-images.githubusercontent.com/52537183/162124906-f89d8cce-d968-4248-be4e-c92e12e4afd8.PNG)
+![Demo4](https://user-images.githubusercontent.com/52537183/162124907-4970673a-b859-47e0-8549-061e58b12f9c.PNG)
+`
 
 ## :computer:	Acesse o projeto
 
